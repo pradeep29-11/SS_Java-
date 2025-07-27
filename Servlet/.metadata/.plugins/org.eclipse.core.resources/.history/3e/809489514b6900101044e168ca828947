@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form method="Post" action ="./login" >
+		Username : <input type="text" name="uname"><br>
+		Password : <input type="text" name="pwd"><br>
+		<input type="submit" value="Login">
+		
+	</form>
+</body>
+</html>

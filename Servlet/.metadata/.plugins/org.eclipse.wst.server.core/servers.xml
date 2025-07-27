@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers2/Tomcat v11.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v11.0 Server at localhost" name="Tomcat v11.0 Server at localhost" runtime-id="Apache Tomcat v11.0" server-type="org.eclipse.jst.server.tomcat.110" server-type-id="org.eclipse.jst.server.tomcat.110" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="12">
+    <list key="modules" value0="HelloServlet::org.eclipse.jst.jee.server:HelloServlet::jst.web::5.0" value1="Ass_01::org.eclipse.jst.jee.server:Ass_01::jst.web::6.1" value2="Ass_02::org.eclipse.jst.jee.server:Ass_02::jst.web::6.1" value3="Ass_03::org.eclipse.jst.jee.server:Ass_03::jst.web::6.1" value4="Ass_04_number::org.eclipse.jst.jee.server:Ass_04_number::jst.web::6.1" value5="Ass_05_login_form::org.eclipse.jst.jee.server:Ass_05_login_form::jst.web::6.1"/>
+  </server>
+</servers>
